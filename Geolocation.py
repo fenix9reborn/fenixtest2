@@ -4,7 +4,7 @@ from tkinter import simpledialog
 from geopy.distance import geodesic
 
 # Enter your OpenCage Geocoder API key here
-key = '58a484e03b404bbeb1689d92e7a0d215'
+key = ''
 
 # Create a Tkinter dialog to prompt the user for the starting and destination cities, and countries, as well as the speed
 root = tk.Tk()
