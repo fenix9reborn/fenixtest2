@@ -1,3 +1,4 @@
+# this is for fun only...
 import opencage.geocoder
 import tkinter as tk
 from tkinter import simpledialog
